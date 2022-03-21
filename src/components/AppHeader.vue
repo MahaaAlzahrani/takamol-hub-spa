@@ -1,7 +1,6 @@
 <template>
     <header>
     <img alt="Vue logo" src="../assets/Takamol_hub_logo.png" height="50">
-    <p>My Vue.js Application</p>
     <nav>
       <ul>
         <li><router-link to="/">Home</router-link></li>
