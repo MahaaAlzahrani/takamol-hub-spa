@@ -44,7 +44,7 @@
   }
   .btn {
     padding: 10px 20px;
-    font-size: 16px;
+    font-size: 19px;
     border: none;
     border-radius: 5px;
     margin-left: 1rem;
