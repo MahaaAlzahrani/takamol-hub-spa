@@ -4,9 +4,9 @@
 @import "tailwindcss/utilities";
 
 
-.hero img {
+/* .w-hero img {
     height: 85vh;
-  }
+  } */
   
   .heading-container {
     height: 65vh;
