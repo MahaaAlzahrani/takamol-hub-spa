@@ -1,6 +1,12 @@
 <template>
-  <div class="w-hero">
-    <section class="w-banner w-banner-intro w-container w-banner--padding-">
+<section class="hero">
+  <img :src="require('@/assets/background-banner.png')"  alt="houses on the water" class="w-full" />
+  <div
+    class="heading-container absolute flex justify-center items-center w-full">
+    <h1 class="text-5xl text-white">Takamol Hub Portal</h1>
+  </div>
+</section>
+    <!-- <section class="w-banner w-banner-intro w-container w-banner--padding-"> -->
       <!-- <div class="w-banner__info">
         <h2 class="w-banner__header w-header--main">
           <span class="w-banner__header-item">
@@ -17,8 +23,8 @@
          
         </span>
       </a> -->
-    </section>
-  </div>
+    <!-- </section> -->
+
 </template>
 
 <script>
