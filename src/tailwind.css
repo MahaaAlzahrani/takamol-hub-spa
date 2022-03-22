@@ -2,3 +2,13 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+
+.hero img {
+    height: 85vh;
+  }
+  
+  .heading-container {
+    height: 65vh;
+    top: -50px;
+  }
