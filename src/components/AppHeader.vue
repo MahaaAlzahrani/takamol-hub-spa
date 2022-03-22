@@ -3,9 +3,9 @@
     <img alt="Vue logo" src="../assets/Takamol_hub_logo.png" height="50">
     <nav>
       <ul>
-        <li><router-link to="/about">About</router-link></li>
-         <li><router-link to="/docs">Docs</router-link></li>
-          <li><router-link to="/apis">APIs Hub</router-link></li>
+        <li><router-link to="/">About</router-link></li>
+         <li><router-link to="/">Docs</router-link></li>
+          <li><router-link to="/">APIs Hub</router-link></li>
           <li><router-link to="/sign-in">Sign in</router-link></li>
           <button class="btn primary-btn">Sign up</button>
       </ul>

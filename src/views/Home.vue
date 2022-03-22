@@ -1,9 +1,11 @@
 <template>
+<div>
   <section class="w-homepage">
     <Hero />
     <Clints />
     <Footer />
   </section>
+</div>
 </template>
 
 <script>
@@ -20,4 +22,8 @@ export default {
   }
 };
 </script>
-
+<style lang="scss">
+.w-homepage {
+ 
+}
+</style>

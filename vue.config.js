@@ -1,4 +1,13 @@
-const { defineConfig } = require('@vue/cli-service')
-module.exports = defineConfig({
-  transpileDependencies: true
-})
+module.exports = {
+    "runtimeCompiler": true,
+    css: {
+      loaderOptions: {
+        css: {
+          // options here will be passed to css-loader
+        },
+        postcss: {
+          // options here will be passed to postcss-loader
+        }
+      }
+    }
+  }
