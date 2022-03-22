@@ -1,16 +1,16 @@
 <template>
-    <header>
-    <img alt="Vue logo" src="../assets/Takamol_hub_logo.png" height="50">
-    <nav>
-      <ul>
-        <li><router-link to="/">About</router-link></li>
-         <li><router-link to="/">Docs</router-link></li>
-          <li><router-link to="/">APIs Hub</router-link></li>
-          <li><router-link to="/sign-in">Sign in</router-link></li>
-          <button class="btn primary-btn">Sign up</button>
-      </ul>
-    </nav>
-  </header>
+    <nav class="px-2 sm:px-4 py-2.5">
+      <div class="container flex flex-wrap justify-between items-center mx-auto">
+         <img class="mr-7 w-36 h-16" alt="Takamol Hub logo" src="../assets/Takamol_hub_logo.png">
+           <ul class="list-reset flex-grow lg:flex justify-end flex-1 items-center">
+              <li class="mr-3"><router-link to="/" class="inline-block hover:text-blue">About</router-link></li>
+              <li class="mr-3"><router-link to="/" class="inline-block hover:text-blue">Docs</router-link></li>
+              <li class="mr-3"><router-link to="/" class="inline-block hover:text-blue">APIs Hub</router-link></li>
+              <li class="mr-3"><router-link to="/sign-in" class="inline-block hover:text-blue">Sign in</router-link></li>
+              <button class="btn primary-btn">Sign up</button>
+             </ul>
+      </div>
+  </nav>
 </template>
 
 <script>

@@ -1,7 +1,7 @@
 <template>
   <div class="w-hero">
     <section class="w-banner w-banner-intro w-container w-banner--padding-">
-      <div class="w-banner__info">
+      <!-- <div class="w-banner__info">
         <h2 class="w-banner__header w-header--main">
           <span class="w-banner__header-item">
             <span v-t="'intro_title'">Takamol Hub Portal</span>
@@ -9,14 +9,14 @@
         </h2>
         <h3 class="w-banner__header--small w-header--small">Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat</h3>
       </div>
-      <div class="w-banner__image w-banner__image_home">
+      <div class="w-banner__image w-banner__image_home"> -->
         <!-- <video loop autoplay :src="require('@/assets/hero_video.mp4')" class="video" muted /> -->
-      </div>
+      <!-- </div>
       <a href class="headerSlider__scroll">
         <span class="headerSlider__scrollIcon">
-          <span></span>
+         
         </span>
-      </a>
+      </a> -->
     </section>
   </div>
 </template>
