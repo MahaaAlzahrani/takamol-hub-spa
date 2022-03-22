@@ -3,7 +3,7 @@
   <img :src="require('@/assets/background-banner.png')"  alt="houses on the water" class="w-full" />
   <div
     class="heading-container absolute flex justify-center items-center w-full">
-    <h1 class="text-5xl text-white">Takamol Hub Portal</h1>
+    <h1 class="text-5xl">Takamol Hub Portal</h1>
   </div>
 </section>
     <!-- <section class="w-banner w-banner-intro w-container w-banner--padding-"> -->
