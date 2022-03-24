@@ -30,7 +30,7 @@
         </div>
   </div> -->
   <div class="relative flex justify-center items-center md:justify-start ">
-        <img class="md:block w-full " :src="require('@/assets/background-banner.png')" alt="banner_background" />
+        <img class="md:block w-full " :src="require('@/assets/img/background-banner.png')" alt="banner_background" />
     <div class="flex absolute justify-start flex-col md:flex-row items-center md:space-y-12 md:space-y-0">
         <div class="lg:w-2/4 custom sm:mt-96 md:mt-0 h-full flex px-4 md:px-0 z-10 justify-center items-center md:items-start flex-col md:pl-20 lg:px-20 2xl:px-44">
             <p class="text-xl sm:text-2xl xl:text-4xl text-center md:text-left font-semibold leading-6 xl:leading-10 text-gray-100 md:w-96 2xl:w-2/3" >Takamol Hub</p>
