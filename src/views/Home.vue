@@ -2,22 +2,22 @@
 <div>
   <section class="w-homepage">
     <Hero />
-    <!-- <Clints />
-    <Footer /> -->
+    <Clints />
+    <!-- <Footer /> -->
   </section>
 </div>
 </template>
 
 <script>
 import Hero from "@/components/home/Hero";
-// import Clints from "@/components/home/Clints";
+import Clints from "@/components/home/Clints";
 // import Footer from "@/components/Footer";
 
 export default {
   name: 'Home',
   components: {
     Hero,
-    // Clints,
+    Clints,
     // Footer
   }
 };
