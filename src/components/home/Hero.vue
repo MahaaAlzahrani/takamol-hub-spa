@@ -1,6 +1,6 @@
 <template>
 <div class="w-hero">
-  <div class="relative flex justify-center items-center md:justify-start ">
+  <div class="relative flex justify-center items-center md:justify-start">
         <img class="md:block w-full " :src="require('@/assets/img/background-banner.png')" alt="banner_background" />
     <div class="flex absolute justify-start flex-col md:flex-row items-center md:space-y-12 md:space-y-0 px-2 sm:px-4">
         <div class="lg:w-2/4 custom sm:mt-96 md:mt-0 h-full flex px-4 md:px-0 z-10 justify-center items-center md:items-start flex-col md:pl-20 lg:px-20 2xl:px-44">
@@ -10,7 +10,7 @@
                 Explore
             </button>   
         </div> 
-        <img class="md:w-2/4" src="@/assets/img/image_1.png" />       
+        <img class="lg:w-2/4 mr-14" src="@/assets/img/image_1.png" />       
     </div>
 </div>
 </div>
