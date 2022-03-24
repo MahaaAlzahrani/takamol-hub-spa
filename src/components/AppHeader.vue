@@ -20,38 +20,5 @@
 </script>
 
 <style lang="scss">
-  // header {
-  //   display: flex;
-  //   padding: .5rem 1rem;
-
-  //   p {
-  //     margin-left: 1rem;
-  //   }
-  // }
-
-  // nav {
-  //   margin-left: auto;
-
-  //   ul {
-  //     list-style: none;
-  //   }
-
-  //   ul li {
-  //     display: inline-flex;
-  //     margin-left: 1rem;
-  //     font-size: 19px;
-  //   }
-  // }
-  .btn {
-    padding: 10px 20px;
-    font-size: 19px;
-    border: none;
-    border-radius: 5px;
-    margin-left: 1rem;
-  }
-  .primary-btn {
-    background-color: #4FB7DD;
-    color: #ffff;
-
-  }
+ 
 </style>
