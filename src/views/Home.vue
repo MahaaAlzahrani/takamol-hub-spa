@@ -3,6 +3,7 @@
     <Hero />
     <Clints />
     <PopularApis />
+    <UnifiedPlatform />
     <!-- <Footer /> -->
   </div>
 </template>
@@ -11,6 +12,7 @@
 import Hero from "@/components/home/Hero";
 import Clints from "@/components/home/Clints";
 import PopularApis from "@/components/home/PopularApis";
+import UnifiedPlatform from "@/components/home/UnifiedPlatform";
 // import Footer from "@/components/Footer";
 
 export default {
@@ -19,6 +21,7 @@ export default {
     Hero,
     Clints,
     PopularApis,
+    UnifiedPlatform,
     // Footer
   }
 };
