@@ -1,6 +1,6 @@
 <template>
    	<!-- Clints section -->
-	<section class="py-8">
+	<section class="py-8 mx-16">
 		<div class="w-full p-6 flex flex-col flex-grow flex-shrink h-60">
 			<div class="p-8 bg-white rounded-t overflow-hidden shadow">
 				<div class="flex items-start">
