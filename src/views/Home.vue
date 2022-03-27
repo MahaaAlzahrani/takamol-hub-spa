@@ -1,16 +1,16 @@
 <template>
-<div>
-  <section class="w-homepage">
+  <div class="w-homepage">
     <Hero />
     <Clints />
+    <PopularApis />
     <!-- <Footer /> -->
-  </section>
-</div>
+  </div>
 </template>
 
 <script>
 import Hero from "@/components/home/Hero";
 import Clints from "@/components/home/Clints";
+import PopularApis from "@/components/home/PopularApis";
 // import Footer from "@/components/Footer";
 
 export default {
@@ -18,6 +18,7 @@ export default {
   components: {
     Hero,
     Clints,
+    PopularApis,
     // Footer
   }
 };
