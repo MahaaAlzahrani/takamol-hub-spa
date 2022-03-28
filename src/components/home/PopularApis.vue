@@ -13,7 +13,7 @@
             <h2 class="text-black text-lg title-font font-medium">Lorem ipsum</h2>
           </div>
           <div class="flex-grow">
-            <p class="leading-relaxed text-base text-black">Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed.</p>
+            <p class="leading-relaxed text-base text-left text-black">Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed.</p>
           </div>
         </div>
       </div>
@@ -27,7 +27,7 @@
             <h2 class="text-black text-lg title-font font-medium">Lorem ipsum</h2>
           </div>
           <div class="flex-grow">
-            <p class="leading-relaxed text-base text-black">Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed.</p>
+            <p class="leading-relaxed text-base text-left text-black">Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed.</p>
           </div>
         </div>
       </div>
@@ -41,7 +41,7 @@
             <h2 class="text-black text-lg title-font font-medium">Lorem ipsum</h2>
           </div>
           <div class="flex-grow">
-            <p class="leading-relaxed text-base text-black">Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed.</p>
+            <p class="leading-relaxed text-base  text-left text-black">Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed.</p>
           </div>
         </div>
       </div>
