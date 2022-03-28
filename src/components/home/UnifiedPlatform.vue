@@ -3,14 +3,14 @@
 		<div class="container max-w-5xl mx-auto m-8">
 			<div class="flex flex-wrap">
 				<div class="w-5/6 sm:w-1/2 p-6">
-					<h2 class="small-heading w400 w-full">Unified platform</h2>
+					<h2 class="w-full small-heading w400 text-left">Unified platform</h2>
 					<div class="w-full mb-4">
 						<div class="h-1 underline_header w-20 my-0 py-0"></div>
 					</div>
-					<h1 class="text-3xl text-gray-800 font-bold leading-none mb-3">
+					<h1 class="text-3xl text-gray-800 font-bold text-left leading-none mb-3">
 						Lorem ipsum dolor sit amet, consetetur sadipscing elitr
 					</h1>
-					<p class="text-gray-600 mb-8">
+					<p class="text-gray-600 text-left mb-8">
 						Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam
 						at ipsum eu nunc commodo posuere et sit amet ligula.
 						<br />
