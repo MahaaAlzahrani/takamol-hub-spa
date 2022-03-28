@@ -1,7 +1,7 @@
 <template>
 	<section class="py-16 mx-16">
-		<div class="container max-w-5xl mx-auto m-8">
-			<div class="flex flex-wrap">
+		<div class="container px-5 py-12 mx-auto">
+			<div class="flex flex-wrap items-center">
 				<div class="w-5/6 sm:w-1/2 p-6">
 					<h2 class="w-full small-heading w400 text-left">Unified platform</h2>
 					<div class="w-full mb-4">
@@ -17,8 +17,8 @@
 						<br />
 					</p>
 				</div>
-				<div class="w-full sm:w-1/2 p-6">
-                    <img class="w-26 h-22" :src="require('@/assets/img/Logo-color.png')" alt="" />
+				<div class="w-full sm:w-1/2 pl-72">
+                    <img class="w-28 h-24" :src="require('@/assets/img/Logo-color.png')" alt="" />
 				</div>
 			</div>
 		</div>
