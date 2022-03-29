@@ -4,6 +4,9 @@
     <Clints />
     <PopularApis />
     <UnifiedPlatform />
+    <div class="w-full py-16 bg-primary-color">
+      <p class="text-xl text-center py-8 text-white">All Public/private sectors APIs in one platform.</p>
+    </div>
     <!-- <Footer /> -->
   </div>
 </template>

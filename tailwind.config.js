@@ -8,7 +8,7 @@ module.exports = {
     // },
     extend: {
       colors: {
-        // 'regal-blue': 'linear-gradient(51deg, #2FE3DB 0%, #834FE8 100%)',
+        'primary-color': '#4FB7DD',
       },
     },
   },
