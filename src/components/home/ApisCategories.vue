@@ -1,9 +1,9 @@
 <template>
-	<section class="py-16 mx-16">
+    <section class="py-16 mx-16">
 		<div class="container px-5 py-12 mx-auto">
 			<div class="flex flex-wrap items-center">
 				<div class="w-5/6 sm:w-1/2 p-6">
-					<h2 class="w-full small-heading w400 font-bold text-left text-primary-color">Unified platform</h2>
+					<h2 class="w-full small-heading w400 font-bold text-left text-primary-color"> APIs categories</h2>
 					<div class="w-full mb-4">
 						<div class="h-1 underline_header w-20 my-0 py-0"></div>
 					</div>
@@ -20,7 +20,7 @@
 					</p>
 				</div>
 				<div class="w-full sm:w-1/2 pl-72">
-                    <img class="w-28 h-24" :src="require('@/assets/img/Logo-color.png')" alt="" />
+                    <img class="w-28 h-24" :src="require('@/assets/img/apis-categories.png')" alt="" />
 				</div>
 			</div>
 		</div>
@@ -28,10 +28,11 @@
 </template>
 
 <script>
-export default {
-  name: "Unified-platform"
-};
+    export default {
+        name: " Apis-categories"
+    }
 </script>
 
 <style lang="scss">
+
 </style>

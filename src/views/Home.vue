@@ -7,6 +7,7 @@
     <div class="w-full py-16 bg-primary-color">
       <p class="text-xl text-center py-8 text-white">All Public/private sectors APIs in one platform.</p>
     </div>
+    <ApisCategories />
     <!-- <Footer /> -->
   </div>
 </template>
@@ -16,6 +17,7 @@ import Hero from "@/components/home/Hero";
 import Clints from "@/components/home/Clints";
 import PopularApis from "@/components/home/PopularApis";
 import UnifiedPlatform from "@/components/home/UnifiedPlatform";
+import ApisCategories from "@/components/home/ApisCategories";
 // import Footer from "@/components/Footer";
 
 export default {
@@ -25,6 +27,7 @@ export default {
     Clints,
     PopularApis,
     UnifiedPlatform,
+    ApisCategories,
     // Footer
   }
 };
