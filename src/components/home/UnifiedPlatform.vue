@@ -11,8 +11,10 @@
 						Lorem ipsum dolor sit amet, consetetur sadipscing elitr
 					</h1>
 					<p class="text-gray-600 text-left mb-8">
-						Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam
-						at ipsum eu nunc commodo posuere et sit amet ligula.
+						Lorem ipsum dolor sit amet, consetetur sadipscing 
+                        elitr, sed diam nonumy eirmod tempor invidunt ut labore
+                        et dolore magna aliquyam erat, sed diam voluptua. At vero
+                        eos et accusam et justo duo dolores et ea rebum. 
 						<br />
 						<br />
 					</p>
