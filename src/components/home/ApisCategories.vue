@@ -20,7 +20,7 @@
 					</p>
 				</div>
 				<div class="w-full sm:w-1/2 pl-72">
-                    <img class="w-28 h-24" :src="require('@/assets/img/apis-categories.png')" alt="" />
+                    <img class="w-52 h-48" :src="require('@/assets/img/apis-categories.png')" alt="" />
 				</div>
 			</div>
 		</div>
