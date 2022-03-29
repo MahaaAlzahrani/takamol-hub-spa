@@ -3,7 +3,7 @@
 		<div class="container px-5 py-12 mx-auto">
 			<div class="flex flex-wrap items-center">
 				<div class="w-5/6 sm:w-1/2 p-6">
-					<h2 class="w-full small-heading w400 text-left">Unified platform</h2>
+					<h2 class="w-full small-heading w400 font-bold  text-left">Unified platform</h2>
 					<div class="w-full mb-4">
 						<div class="h-1 underline_header w-20 my-0 py-0"></div>
 					</div>
