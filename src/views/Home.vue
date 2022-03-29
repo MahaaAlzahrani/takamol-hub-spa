@@ -8,6 +8,7 @@
       <p class="text-xl text-center py-8 text-white">All Public/private sectors APIs in one platform.</p>
     </div>
     <ApisCategories />
+    <Developers />
     <!-- <Footer /> -->
   </div>
 </template>
@@ -18,6 +19,8 @@ import Clints from "@/components/home/Clints";
 import PopularApis from "@/components/home/PopularApis";
 import UnifiedPlatform from "@/components/home/UnifiedPlatform";
 import ApisCategories from "@/components/home/ApisCategories";
+import Developers from "@/components/home/Developers";
+
 // import Footer from "@/components/Footer";
 
 export default {
@@ -28,6 +31,7 @@ export default {
     PopularApis,
     UnifiedPlatform,
     ApisCategories,
+    Developers
     // Footer
   }
 };
