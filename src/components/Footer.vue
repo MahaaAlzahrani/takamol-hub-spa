@@ -7,7 +7,6 @@
               <li class="mr-7"><router-link to="/" class="inline-block text-white">About</router-link></li>
               <li class="mr-7"><router-link to="/" class="inline-block text-white">Docs</router-link></li>
               <li class="mr-7"><router-link to="/" class="inline-block text-white">APIs Hub</router-link></li>
-              <li class="mr-7"><router-link to="/sign-in" class="inline-block text-white">Sign in</router-link></li>
              </ul>
              <div class="lg:flex justify-end items-end flex-1 space-x-4 pl-10 z-30">
                 <a href="#" class="text-gray-400 hover:text-white">
