@@ -20,6 +20,9 @@
                 </a>
              </div>
       </div>
+       <div class="relative pt-6 px-4 text-center">
+                    <span class="text-xs text-gray-300 sm:text-center">© Takamol Hub 2022 </span>
+             </div>
   </footer>
 </template>
 
