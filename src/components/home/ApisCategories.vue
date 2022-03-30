@@ -29,7 +29,7 @@
 
 <script>
     export default {
-        name: " Apis-categories"
+        name: "Apis-categories"
     }
 </script>
 

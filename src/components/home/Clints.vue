@@ -28,7 +28,7 @@
 
 <script>
     export default {
-        name: 'Clints',
+        name: "Clints",
     }
 </script>
 
