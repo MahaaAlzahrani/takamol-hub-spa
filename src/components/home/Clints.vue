@@ -9,13 +9,13 @@
 					<img class="flex-1 lg:w-1/6 lg:h-16 px-7" src="@/assets/img/03.png" alt="" />
 					<img class="flex-1 lg:w-1/12 lg:h-16 px-7" src="@/assets/img/04.png" alt="" /> -->
                     <div class="w-6/12 xl:w-1/4 lg:w-1/4 md:w-1/4 flex justify-center xl:pb-10 pb-16 items-center">
-                    <img class="flex-1 lg:w-6 lg:h-32 px-7" src="@/assets/img/hrsd.svg" alt="" />
+                    <img class="flex-1 lg:w-6 lg:h-32 px-7" src="@/assets/img/NHSCo.svg" alt="" />
                     </div>
                     <div class="w-6/12 xl:w-1/4 lg:w-1/4 md:w-1/4 flex justify-center xl:pb-10 pb-16 items-center">
-					<img class="flex-1 lg:w-6 lg:h-32 px-7" src="@/assets/img/hrsd.svg" alt="" />
+					<img class="flex-1 lg:w-6 lg:h-32 px-7" src="@/assets/img/moj.svg" alt="" />
                     </div>
                     <div class="w-6/12 xl:w-1/4 lg:w-1/4 md:w-1/4 flex justify-center xl:pb-10 pb-16 items-center">
-					<img class="flex-1 lg:w-6 lg:h-32 px-7" src="@/assets/img/hrsd.svg" alt="" />
+					<img class="flex-1 lg:w-7 lg:h-32 px-7" src="@/assets/img/SBA.svg" alt="" />
                     </div>
                     <div class="w-6/12 xl:w-1/4 lg:w-1/4 md:w-1/4 flex justify-center xl:pb-10 pb-16 items-center">
 					<img class="flex-1 lg:w-6 lg:h-32 px-7" src="@/assets/img/hrsd.svg" alt="" />
