@@ -9,13 +9,20 @@
 <script>
 import AppHeader from '@/components/AppHeader'
 import Footer from '@/components/Footer'
+// import FixedHeader from 'vue-fixed-header'
 
 
 export default {
   name: 'App',
+  data () {
+    return {
+      // isFixed: false,
+    }
+  },
   components: {
     AppHeader,
-    Footer
+    Footer,
+    // FixedHeader
   }
 }
 </script>
@@ -28,5 +35,11 @@ export default {
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
   color: #2c3e50;
+}
+.is-sticky {
+  position: fixed !important;
+  background-color: #ffff;
+  color: #4FB7DD!important;
+  box-shadow: 0 2px 4px 0 rgba(#0000, .2);
 }
 </style>
