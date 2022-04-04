@@ -15,6 +15,11 @@ export default new VueRouter({
           component: Home,
           meta: {hasHero: true}
         },
+        {
+          path: '/about',
+          name: 'about',
+          component: () => import(/* webpackChunkName: "demo" */ '../views/About.vue')
+        },
   ]
  });
 
