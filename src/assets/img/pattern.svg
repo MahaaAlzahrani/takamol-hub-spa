@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="241.584" height="236.501" viewBox="0 0 241.584 236.501">
+  <defs>
+    <linearGradient id="linear-gradient" x2="1" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#255ef5"/>
+      <stop offset="1" stop-color="#8665fc"/>
+    </linearGradient>
+    <clipPath id="clip-path">
+      <rect id="Panel" width="241.584" height="236.501" rx="20" fill="url(#linear-gradient)"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-2" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <g id="_1" data-name="1" clip-path="url(#clip-path)">
+    <circle id="Oval" cx="131.198" cy="131.198" r="131.198" transform="translate(-55.367 47.293)" opacity="0.1" fill="url(#linear-gradient-2)"/>
+    <circle id="Oval_Copy" data-name="Oval Copy" cx="131.198" cy="131.198" r="131.198" transform="translate(138.46 -41.654)" opacity="0.1" fill="url(#linear-gradient-2)"/>
+  </g>
+</svg>
