@@ -84,19 +84,20 @@
             >
 			 <!-- <img class="w-6 h-6" src="../assets/img/search.svg" alt=""> -->
               <img class="bg-cover" src="../assets/img/pattern.svg" />
-             
+              <img class="absolute w-14 h-14" src="../assets/img/search.svg" alt="">
+
             </div>
 			 <div
               class="w-32 h-32 mx-9 inline-flex items-center justify-center rounded-2xl from-[#2FE3DB] to-[#834FE8] bg-gradient-to-tr text-white flex-shrink-0"
             >
               <img class="bg-cover" src="../assets/img/pattern.svg" />
-              <!-- <img class="w-6 h-6" src="../assets/img/mlsd-w-logo.png" alt=""> -->
+              <img class="absolute w-14 h-14" src="../assets/img/earth.svg" alt="">
             </div>
 			 <div
               class="w-32 h-32 mx-9 inline-flex items-center justify-center rounded-2xl from-[#2FE3DB] to-[#834FE8] bg-gradient-to-tr text-white flex-shrink-0"
             >
               <img class="bg-cover" src="../assets/img/pattern.svg" />
-              <!-- <img class="w-6 h-6" src="../assets/img/mlsd-w-logo.png" alt=""> -->
+			  <img class="absolute w-14 h-14" src="../assets/img/cloud.svg" alt="">
             </div>
           </div>
       </div>
