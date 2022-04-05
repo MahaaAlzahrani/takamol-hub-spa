@@ -54,6 +54,7 @@
         </div>
       </div>
     </section>
+		  <img class="w-full w-44 h-32 float-right" src="../assets/img/split.svg">
     <!-- Our Company Values -->
     <section class="py-16 mx-16">
       <div class="container px-5 py-12 mx-auto">
@@ -80,21 +81,22 @@
         </div>
 		 <div class="w-full">
             <div
-              class="w-32 h-32 mx-9 inline-flex items-center justify-center rounded-2xl from-[#2FE3DB] to-[#834FE8] bg-gradient-to-tr text-white flex-shrink-0"
+              class="w-32 h-32 mx-9 inline-flex items-center justify-center rounded-2xl from-[#2FE3DB] to-[#834FE8] bg-gradient-to-tr text-white flex-shrink-0 transition hover:-translate-y-1"
             >
 			 <!-- <img class="w-6 h-6" src="../assets/img/search.svg" alt=""> -->
               <img class="bg-cover" src="../assets/img/pattern.svg" />
               <img class="absolute w-14 h-14" src="../assets/img/search.svg" alt="">
-
             </div>
 			 <div
-              class="w-32 h-32 mx-9 inline-flex items-center justify-center rounded-2xl from-[#2FE3DB] to-[#834FE8] bg-gradient-to-tr text-white flex-shrink-0"
+              class="w-32 h-32 mx-9 inline-flex items-center justify-center rounded-2xl from-[#2FE3DB] to-[#834FE8] bg-gradient-to-tr text-white flex-shrink-0 transition hover:-translate-y-1"
             >
               <img class="bg-cover" src="../assets/img/pattern.svg" />
               <img class="absolute w-14 h-14" src="../assets/img/earth.svg" alt="">
+
             </div>
+		
 			 <div
-              class="w-32 h-32 mx-9 inline-flex items-center justify-center rounded-2xl from-[#2FE3DB] to-[#834FE8] bg-gradient-to-tr text-white flex-shrink-0"
+              class="w-32 h-32 mx-9 inline-flex items-center justify-center rounded-2xl from-[#2FE3DB] to-[#834FE8] bg-gradient-to-tr text-white flex-shrink-0 transition hover:-translate-y-1"
             >
               <img class="bg-cover" src="../assets/img/pattern.svg" />
 			  <img class="absolute w-14 h-14" src="../assets/img/cloud.svg" alt="">
