@@ -102,6 +102,24 @@
           </div>
       </div>
     </section>
+	   <!-- Sign up section -->
+    <section class="py-20 mx-16">
+        <div class="w-full flex flex-col flex-grow flex-shrink">
+            <div
+                class="w-full container mx-auto flex flex-wrap items-center justify-between mt-0 py-11 px-10 bg-gery rounded rounded-b-none overflow-hidden shadow">
+                <div class="flex flex-col w-full md:w-2/5 justify-center items-start text-center md:text-left">
+                    <h1 class="text-xl font-bold leading-12">Ready to get started?</h1>
+                    <p class="text-base text-gray-600 pt-4">Get in touch or start exploring Takamol Hub today.</p>
+                </div>
+                <div class="">
+                    <button
+                        class="mx-auto lg:mx-0 text-white rounded font-bold mr-8 lg:mt-0 py-4 px-8 bg-primary-color transition hover:-translate-y-1 hover:bg-primarybtnhover">
+                        Get Started for free
+                    </button>
+                </div>
+            </div>
+        </div>
+    </section>
   </div>
 </template>
 
