@@ -20,6 +20,11 @@ export default new VueRouter({
           name: 'about',
           component: () => import(/* webpackChunkName: "demo" */ '../views/About.vue')
         },
+        {
+          path: '/docs',
+          name: 'docs',
+          component: () => import(/* webpackChunkName: "demo" */ '../views/Documentation.vue')
+        },
   ]
  });
 
