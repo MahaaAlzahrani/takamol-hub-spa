@@ -1,14 +1,14 @@
 <template>
   <div id="app">
-   <app-header />
+   <!-- <app-header /> -->
    <router-view></router-view>
-   <Footer />
+   <!-- <Footer /> -->
   </div>
 </template>
 
 <script>
-import AppHeader from '@/components/AppHeader'
-import Footer from '@/components/Footer'
+// import AppHeader from '@/components/AppHeader'
+// import Footer from '@/components/Footer'
 // import FixedHeader from 'vue-fixed-header'
 
 
@@ -20,8 +20,8 @@ export default {
     }
   },
   components: {
-    AppHeader,
-    Footer,
+    // AppHeader,
+    // Footer,
     // FixedHeader
   }
 }

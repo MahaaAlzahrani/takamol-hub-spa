@@ -1,4 +1,6 @@
 <template>
+<div>
+<app-header />
   <div class="w-homepage">
     <Hero />
     <Clints />
@@ -9,30 +11,34 @@
     </div>
     <ApisCategories />
     <Developers />
-    <!-- <Footer /> -->
+    <Footer />
   </div>
+</div>
 </template>
 
 <script>
+import AppHeader from '@/components/AppHeader'
 import Hero from "@/components/home/Hero";
 import Clints from "@/components/home/Clints";
 import PopularApis from "@/components/home/PopularApis";
 import UnifiedPlatform from "@/components/home/UnifiedPlatform";
 import ApisCategories from "@/components/home/ApisCategories";
 import Developers from "@/components/home/Developers";
+import Footer from '@/components/Footer'
 
 // import Footer from "@/components/Footer";
 
 export default {
   name: 'Home',
   components: {
+    AppHeader,
     Hero,
     Clints,
     PopularApis,
     UnifiedPlatform,
     ApisCategories,
-    Developers
-    // Footer
+    Developers,
+    Footer
   }
 };
 </script>
